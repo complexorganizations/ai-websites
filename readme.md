@@ -1,4 +1,4 @@
-# AI Websites
+# Free AI Websites
 
 This document provides a list and comparison of AI websites similar to ChatGPT. It includes a variety of AI tools ranging from conversational agents to creative generators. Each website is reviewed based on its primary features, use cases, and limitations.
 
@@ -14,27 +14,23 @@ This document provides a list and comparison of AI websites similar to ChatGPT. 
 
    - **Overview**: Google Gemini is Google's conversational AI tool that provides information and assistance to users. It is integrated with Google services and can help with tasks such as finding information, setting reminders, and answering questions.
 
-3. **[Microsoft Copilot](https://copilot.github.com/)**
-
-   - **Overview**: Microsoft Copilot is an AI-powered code completion tool developed by GitHub and OpenAI. It assists programmers by generating code snippets, providing suggestions, and offering programming assistance.
-
-4. **[Perplexity AI](https://perplexity.ai/)**
+3. **[Perplexity AI](https://perplexity.ai/)**
 
    - **Overview**: Perplexity AI is a creative AI tool that generates text, poetry, and stories. It can be used for creative writing, storytelling, and content generation.
 
-5. **[Claude AI](https://claude.ai/)**
+4. **[Claude AI](https://claude.ai/)**
 
    - **Overview**: Claude AI is an AI artist that creates unique art pieces based on user input. It generates art, images, and designs using AI algorithms.
 
-6. **[Pi AI](https://pi.ai/)**
+5. **[Pi AI](https://pi.ai/)**
 
    - **Overview**: Pi AI is an AI-powered personal assistant that helps with daily tasks and information retrieval. It can manage tasks, provide information, and assist users with various queries.
 
-7. **[Hugging Face](https://huggingface.co/)**
+6. **[Hugging Face](https://huggingface.co/)**
 
    - **Overview**: Hugging Face is a platform for AI models and natural language processing tools. It offers a wide range of AI models, NLP tools, and resources for developers and researchers.
 
-8. **[Meta AI](https://meta.ai/)**
+7. **[Meta AI](https://meta.ai/)**
 
    - **Overview**: Meta AI is an AI platform that offers a variety of AI tools and services, including creative AI tools, conversational agents, and other AI services.
 
@@ -46,9 +42,8 @@ This document provides a list and comparison of AI websites similar to ChatGPT. 
 | ------ | ------------------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 1.     | [ChatGPT](https://chatgpt.com/)                  | OpenAI's conversational model with broad capabilities.                        | Conversational AI, code generation, text completion.         |
 | 2.     | [Google Gemini](https://gemini.google.com/)      | Google's conversational AI, designed to provide information and assistance.   | Conversational AI, integration with Google services.         |
-| 3.     | [Microsoft Copilot](https://copilot.github.com/) | An AI-powered code completion tool developed by GitHub and OpenAI.            | Code generation, code completion, programming assistance.    |
-| 4.     | [Perplexity AI](https://perplexity.ai/)          | A creative AI tool that generates text, poetry, and stories.                  | Creative writing, text generation, storytelling.             |
-| 5.     | [Claude AI](https://claude.ai/)                  | An AI artist that creates unique art pieces based on user input.              | Art generation, image creation, artistic collaboration.      |
-| 6.     | [Pi AI](https://pi.ai/)                          | An AI-powered personal assistant that helps with daily tasks and information. | Personal assistance, task management, information retrieval. |
-| 7.     | [Hugging Face](https://huggingface.co/)          | A platform for AI models and natural language processing tools.               | AI models, NLP tools, model training and deployment.         |
-| 8.     | [Meta AI](https://meta.ai/)                      | An AI platform that offers a variety of AI tools and services.                | AI tools, creative AI, conversational agents.                |
+| 3.     | [Perplexity AI](https://perplexity.ai/)          | A creative AI tool that generates text, poetry, and stories.                  | Creative writing, text generation, storytelling.             |
+| 4.     | [Claude AI](https://claude.ai/)                  | An AI artist that creates unique art pieces based on user input.              | Art generation, image creation, artistic collaboration.      |
+| 5.     | [Pi AI](https://pi.ai/)                          | An AI-powered personal assistant that helps with daily tasks and information. | Personal assistance, task management, information retrieval. |
+| 6.     | [Hugging Face](https://huggingface.co/)          | A platform for AI models and natural language processing tools.               | AI models, NLP tools, model training and deployment.         |
+| 7.     | [Meta AI](https://meta.ai/)                      | An AI platform that offers a variety of AI tools and services.                | AI tools, creative AI, conversational agents.                |
