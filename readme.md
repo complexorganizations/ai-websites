@@ -1,6 +1,6 @@
-# Free-to-Use AI Websites
+# AI Websites
 
-This document provides a list and comparison of free-to-use AI websites similar to ChatGPT. It includes a variety of AI tools ranging from conversational agents to creative generators. Each website is reviewed based on its primary features, use cases, and limitations.
+This document provides a list and comparison of AI websites similar to ChatGPT. It includes a variety of AI tools ranging from conversational agents to creative generators. Each website is reviewed based on its primary features, use cases, and limitations.
 
 ---
 
