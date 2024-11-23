@@ -1,6 +1,6 @@
 # Free AI Tools
 
-This document provides a list and comparison of 25 free AI tools. These tools range from conversational agents to creative generators, offering diverse functionalities for various needs.
+This document provides a list and comparison of free AI tools. These tools range from conversational agents to creative generators, offering diverse functionalities for various needs.
 
 ---
 
