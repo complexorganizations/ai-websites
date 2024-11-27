@@ -12,4 +12,4 @@ However, if you modify or distribute the Work, you must:
 
 **Disclaimer:**
 
-The Work is provided "as is," without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability or fitness for a particular purpose. The creators are not responsible for any claims, damages, or other liabilities that may arise from using the Work.
+The Work is provided "as is." No warranties are given. The creators are not responsible for any issues that come from using the Work.
